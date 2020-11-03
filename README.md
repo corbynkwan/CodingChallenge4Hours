@@ -91,12 +91,8 @@ You can change the price of the products by **double clicking** on the value, **
 Stores the name of **products** that are being sold<br>
 ![Product Quantity Image](./src/assets/images/products_quantity.PNG)
 
-You can change the price of the products by **double clicking** on the value, **typing** the desired quantity, and **pressing** the enter key. **Refresh** the website and the changes will be reflected.
-#### API Reference
+You can change the initial quantity of the products by **double clicking** on the value, **typing** the desired quantity, and **pressing** the enter key. **Refresh** the website and the changes will be reflected.
 
-
-
-[Back To The Top](#4Hour-Fruit-Shop-Website-Coding-Challenge)
 
 ---
 
